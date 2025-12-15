@@ -1,4 +1,4 @@
-# Hi, I'm Alif 👋
+# Hi, I'm Shatar 👋
 
 ### Informatics Student & Web Developer 🇮🇩
 > *Building logic-heavy web systems & analyzing market microstructure.*
