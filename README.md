@@ -23,4 +23,4 @@ A minimalist company profile and portfolio website designed for a professional a
 ![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyarakuta07&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ### 📫 Connect
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](LINK_LINKEDIN_KAMU_DISINI)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://id.linkedin.com/in/alif-shatar-gustian-289213256?trk=public_post_follow-view-profile)
